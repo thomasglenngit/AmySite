@@ -1,0 +1,32 @@
+.intro-header {
+  font-size: 60px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.sentiment {
+  padding: 120px;
+  font-size: 40px;
+}
+
+.instructions {
+  padding: 40px;
+  
+}
+
+
+.inset1 {
+  padding-left: 20px;
+}
+
+.inset2 {
+  padding-left: 40px;
+}
+
+.ui p {
+  font-size: 30px;
+}
+
+.footer {
+  margin-top: 30px;
+}
